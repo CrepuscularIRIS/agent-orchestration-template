@@ -1,0 +1,2 @@
+# 一行一条：<task-id> <REVIEW 文件> <head SHA>
+# 整分支 L 档也记一行（task-id 写 L-<n>），它的 head 是下一次 L 的起点。
